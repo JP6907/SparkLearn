@@ -1,0 +1,3 @@
+spark://116.56.140.131:50005
+jdbc:mysql://116.56.140.131:13306/sparktest?characterEncoding=UTF-8", "root", "root"
+hdfs://116.56.140.131:50006/
